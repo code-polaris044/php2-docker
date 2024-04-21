@@ -10,5 +10,7 @@
         氏名: <input type="text" name="username" >
         <input type="submit" value="送信">
     </form>
+
+    <?php echo date("Y-m-d H-i-s"); ?>
 </body>
 </html>
